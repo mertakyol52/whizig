@@ -52,7 +52,7 @@ console.log(chalk `{bold.green
   Ξ TITLE  : Whiz Instagram Araci
   Ξ CODEBY : Whiz
   = INSTAGRAM : https://www.instagram.com/whiz.x2
-  Ξ FILES  : https://github.com/officialputuid/toolsig
+  Ξ GİTHUB  : https://github.com/whiz-x/whizig
   }`);
 console.log(chalk `{bold.red   •••••••••••••••••••••••••••••••••••••••••}`);
 console.log("  Ξ DOSYA YOLU  : ".bold.red + userHome);
