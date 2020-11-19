@@ -1,0 +1,2 @@
+# whizig
+Whiz Instagram Aracı
